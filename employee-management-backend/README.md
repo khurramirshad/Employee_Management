@@ -1,2 +1,1 @@
-# Insta-2.0-backend
- A basic social media application inspired by Instagram and Facebook.This social media platform will implement simple features such as post sharing, liking and commenting, following friends, and an aggregated news feed.
+Employeed Regitry Back end implemented with Node js and persistance storage with Mongo DB
